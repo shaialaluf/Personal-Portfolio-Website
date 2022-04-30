@@ -38,7 +38,7 @@ nav{
 ul{
     display: flex;
     list-style-type: none;
-    width: 500px;
+    width: 800px;
     justify-content: space-around;
     font-size: 30px;
 }
@@ -108,6 +108,14 @@ p{
  flex-direction: column;
  text-align: center;   
  padding: 80px;
+}
+
+.sub-section-alternative-cert{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 160px;
+    padding: 20px;
 }
 
 .headshot{
